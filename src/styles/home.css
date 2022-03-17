@@ -1,0 +1,23 @@
+
+
+.items-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+@media screen and (max-width: 1700px) {
+    .items-container {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    .items-container {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+@media screen and (max-width: 900px) {
+    .items-container {
+        grid-template-columns: 1fr;
+    }
+}

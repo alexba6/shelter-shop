@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Chombunker bunker",
+    "description": "Very useful for huge families and mostly for people crazy of food ! ",
+    "price": 10000000,
+    "imgPath": "p.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Nardine bunker",
+    "description": "Bring your dog and died in 2 days !!! ",
+    "price": 100000,
+    "imgPath": "bunker.png"
+  },
+  {
+    "id": 3,
+    "name": "Nardine bunker",
+    "description": "Bring your dog and died in 2 days !!! ",
+    "price": 50,
+    "imgPath": "bunker.png"
+  },
+  {
+    "id": 4,
+    "name": "Nardine bunker",
+    "description": "Bring your dog and died in 2 days !!! ",
+    "price": 100000,
+    "imgPath": "bunker.png"
+  },
+  {
+    "id": 5,
+    "name": "Nardine bunker",
+    "description": "Bring your dog and died in 2 days !!! ",
+    "price": 6545415,
+    "imgPath": "bunker.png"
+  },
+  {
+    "id": 6,
+    "name": "Nardine bunker",
+    "description": "Bring your dog and died in 2 days !!! ",
+    "price": 5410,
+    "imgPath": "bunker.png"
+  },
+  {
+    "id": 7,
+    "name": "Nardine bunker",
+    "description": "Bring your dog and died in 2 days !!! ",
+    "price": 100000,
+    "imgPath": "bunker.png"
+  },
+  {
+    "id": 8,
+    "name": "Nardine bunker",
+    "description": "Bring your dog and died in 2 days !!! ",
+    "price": 5457,
+    "imgPath": "bunker.png"
+  },
+  {
+    "id": 9,
+    "name": "Nardine bunker",
+    "description": "Bring your dog and died in 2 days !!! ",
+    "price": 514848,
+    "imgPath": "bunker.png"
+  },
+  {
+    "id": 10,
+    "name": "Nardine bunker",
+    "description": "Bring your dog and died in 2 days !!! ",
+    "price": 54184,
+    "imgPath": "bunker.png"
+  }
+]

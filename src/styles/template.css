@@ -1,0 +1,42 @@
+
+
+#app > .header {
+    display: flex;
+    align-items: center;
+    margin: 7px 10px;
+    padding: 0 10px;
+    border-bottom: 1px solid #676767;
+}
+
+#app > .header img {
+    height: 80px;
+    cursor: pointer;
+}
+
+#app > .header h1 {
+    padding-left: 15px;
+    font-size: 35px;
+    font-family: 'Fredoka', sans-serif;
+}
+
+#app > .header .car-frame {
+    margin-left: auto;
+    cursor: pointer;
+    position: relative;
+}
+
+#app > .header .car-frame .count-frame {
+    cursor: pointer;
+    position: absolute;
+    top: -5px;
+    right: 0;
+    background: #f16e19;
+    border-radius: 100%;
+    font-size: 15px;
+    text-align: center;
+    height: 25px;
+    width: 25px;
+}
+#app > .content {
+    margin: 15px;
+}
