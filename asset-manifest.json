@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shelter-shop/static/css/main.44816726.css",
+    "main.js": "/shelter-shop/static/js/main.36cd1ff9.js",
+    "index.html": "/shelter-shop/index.html",
+    "main.44816726.css.map": "/shelter-shop/static/css/main.44816726.css.map",
+    "main.36cd1ff9.js.map": "/shelter-shop/static/js/main.36cd1ff9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44816726.css",
+    "static/js/main.36cd1ff9.js"
+  ]
+}
