@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/shelter-shop/static/css/main.44816726.css",
-    "main.js": "/shelter-shop/static/js/main.2043cc24.js",
+    "main.js": "/shelter-shop/static/js/main.55814756.js",
     "index.html": "/shelter-shop/index.html",
     "main.44816726.css.map": "/shelter-shop/static/css/main.44816726.css.map",
-    "main.2043cc24.js.map": "/shelter-shop/static/js/main.2043cc24.js.map"
+    "main.55814756.js.map": "/shelter-shop/static/js/main.55814756.js.map"
   },
   "entrypoints": [
     "static/css/main.44816726.css",
-    "static/js/main.2043cc24.js"
+    "static/js/main.55814756.js"
   ]
 }
